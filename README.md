@@ -1,4 +1,5 @@
-Notera-A-note-making-webapp
+**Notera-A-note-making-webapp**
+
 Notera is a lightweight and user-friendly note-making app designed to help you quickly jot down your thoughts, ideas, and reminders on the go. With its intuitive interface and seamless functionality, capturing and organizing your notes has never been easier.
 
 Technologies Used: HTML, CSS, and JavaScript.
